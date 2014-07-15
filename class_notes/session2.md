@@ -3,6 +3,10 @@
 ## Temas
 
 1. Funciones
+
+Good Practice : camelCase for functions 
+
+
 2. --
 
 
